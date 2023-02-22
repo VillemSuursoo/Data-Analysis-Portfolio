@@ -24,6 +24,7 @@ My CV [`pdf`](https://github.com/VillemSuursoo/Projects/blob/1f42d942137c02bd8aa
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have
 - [Google Data Analytics](https://drive.google.com/file/d/1eEqtjTBBI_Ytu2XQsAXSTOtoMMdwUdZM/view?usp=sharing)(Codecademy - Google)
 - [A/B Testing](https://drive.google.com/file/d/160-oxidqUqp0oP3vgbd9SgspIj2mQVKy/view?usp=sharing)(Udacity - Google)
+- [Analyze Data with SQL Skill Path](https://drive.google.com/file/d/16uca3aO7OQF_R0Dfbo6Dffml3kB99yFQ/view?usp=sharing)(Codecademy)
 
 ## Contacts
 - Linkedin [VillemSuursoo](https://www.linkedin.com/in/villem-suursoo-381832252/)
