@@ -25,6 +25,7 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [Google Data Analytics](https://drive.google.com/file/d/1eEqtjTBBI_Ytu2XQsAXSTOtoMMdwUdZM/view?usp=sharing)(Codecademy - Google)
 - [A/B Testing](https://drive.google.com/file/d/160-oxidqUqp0oP3vgbd9SgspIj2mQVKy/view?usp=sharing)(Udacity - Google)
 - [Analyze Data with SQL Skill Path](https://drive.google.com/file/d/16uca3aO7OQF_R0Dfbo6Dffml3kB99yFQ/view?usp=sharing)(Codecademy)
+- [Fundamental Math for Data Science](https://drive.google.com/file/d/1U_2hApL1BtrrTwJK40XqOcbNBm7YADv6/view?usp=sharing)(Codecademy)
 
 ## Contacts
 - Linkedin [VillemSuursoo](https://www.linkedin.com/in/villem-suursoo-381832252/)
