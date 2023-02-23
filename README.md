@@ -22,7 +22,7 @@ My CV [`pdf`](https://github.com/VillemSuursoo/Projects/blob/1f42d942137c02bd8aa
 **Description:** The ultimate goal of the project was to analyze the varios moves and strategies used in my chess games to gain insights into my gameplay and improve my overall performance. The project involved several steps, including data collection, cleaning, analysis, and visualization.
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have
-- [Google Data Analytics](https://drive.google.com/file/d/1eEqtjTBBI_Ytu2XQsAXSTOtoMMdwUdZM/view?usp=sharing)(Codecademy - Google)
+- [Google Data Analytics](https://drive.google.com/file/d/1eEqtjTBBI_Ytu2XQsAXSTOtoMMdwUdZM/view?usp=sharing)(Coursera - Google)
 - [A/B Testing](https://drive.google.com/file/d/160-oxidqUqp0oP3vgbd9SgspIj2mQVKy/view?usp=sharing)(Udacity - Google)
 - [Analyze Data with SQL Skill Path](https://drive.google.com/file/d/16uca3aO7OQF_R0Dfbo6Dffml3kB99yFQ/view?usp=sharing)(Codecademy)
 - [Fundamental Math for Data Science](https://drive.google.com/file/d/1U_2hApL1BtrrTwJK40XqOcbNBm7YADv6/view?usp=sharing)(Codecademy)
