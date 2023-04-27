@@ -16,6 +16,13 @@ My CV [`pdf`](https://github.com/VillemSuursoo/Projects/blob/1f42d942137c02bd8aa
 **Presentation:** [`Executive_Summery.pdf`](https://github.com/VillemSuursoo/Projects/blob/e022e4f3bced5edc4140c9af1de559b83079c8b2/Executive_Summery_Villem_Suursoo.pdf) [`Bolt_Flow_Diagram.jpg`](https://github.com/VillemSuursoo/Projects/blob/e022e4f3bced5edc4140c9af1de559b83079c8b2/Bolt_Flow_Diagram.jpg)   
 **Description:** A key element is reviewing every money transaction in order to identify opportunities and business cases to improve the services provided to our partners. The following balance table belongs to one of our partners in Bolt Food (practise table). Goal was to provide an executive summary of the partner balance (earnings, expenses, etc). Suggesest KPIs to use to evaluate this table and add own suggestions on improving the table.
 
+### Enefit Green Wind Turbine Analysis
+**Code:** [`Wind Turbine Performance Data.xlsx`](https://github.com/VillemSuursoo/Projects/blob/a2c7c235aa91bf3d0ac1aca35a1bafa14621817c/Wind%20Turbine%20Performance%20Data.xlsx)
+[`Main Component Replacements in Wind Turbines.xlsx`](https://github.com/VillemSuursoo/Projects/blob/a2c7c235aa91bf3d0ac1aca35a1bafa14621817c/Main%20Component%20Replacements%20in%20Wind%20Turbines.xlsx)
+**Presentation:**[`Summery_Wind_Turbine.docx`](https://github.com/VillemSuursoo/Projects/blob/a2c7c235aa91bf3d0ac1aca35a1bafa14621817c/Summery_Wind_Turbine.docx)   
+**Description:** Task1:I analyzed wind turbine performance data from two turbines during Q1 2022. I identified missing values, calculated averages and visualized the data. I also determined the best electricity producing period, identified the turbine that produced more electricity and pinpointed trends in the data.
+Task2: I analyzed data from 16 wind farms since 2008 to identify the most common failures and problematic components. I also determined the most problematic wind turbine manufacturer and attempted to find the most problematic wind turbine overall.
+
 ### Chess Analysis
 **Code:** [`Chess_Analysis.ipynb`](https://github.com/VillemSuursoo/Projects/blob/1f42d942137c02bd8aa0cb354889942cff9ee4cd/Chess_Analysis.ipynb)   
 **Presentation:**[`Tableau Dashboard`](https://public.tableau.com/app/profile/villem8110/viz/MyChessJourney/Dashboard3)   
