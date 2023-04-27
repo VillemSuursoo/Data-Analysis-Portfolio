@@ -7,7 +7,7 @@ I am experienced in data cleaning, data exploration, and data modeling, and am s
 
 I am eager to learn and grow in the field. I am dedicated to ensuring the accuracy and completeness of data, and I am committed to communicating insights and recommendations to stakeholders in a clear and concise manner. I am a collaborative team player and am eager to work with experienced data analysts to continue developing my skills and making an impact in the field of data analytics.
 
-My CV [`pdf`](https://github.com/VillemSuursoo/Projects/blob/1f42d942137c02bd8aa0cb354889942cff9ee4cd/Villem_Resume.pdf)
+My CV [`pdf`](https://github.com/VillemSuursoo/Projects/blob/acc14c31f0cd6ade570b62022df0c5da76ff3161/Villem_Resume.pdf)
 
 ## Portfolio Project
 
