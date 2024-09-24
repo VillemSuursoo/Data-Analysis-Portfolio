@@ -17,7 +17,7 @@ My CV [`pdf`](https://github.com/VillemSuursoo/Projects/blob/acc14c31f0cd6ade570
 **Description:** A key element is reviewing every money transaction in order to identify opportunities and business cases to improve the services provided to our partners. The following balance table belongs to one of our partners in Bolt Food (practise table). Goal was to provide an executive summary of the partner balance (earnings, expenses, etc). Suggesest KPIs to use to evaluate this table and add own suggestions on improving the table.
 
 ### Tallinn Apartment Data Analysis
-**Code:** [Tallinn Apartment Data Analysis.xlsx](https://github.com/user-attachments/files/17113228/Tallinn.Apartment.Data.Analysis.xlsx)
+**Code:** [Tallinn Apartment Data Analysis.xlsx](https://github.com/user-attachments/files/17113228/Tallinn.Apartment.Data.Analysis.xlsx)   
 **Description:** The goal of this analysis is to gain insights into Tallinn real estate market, by comparing data from two sources (KV and City24 July 2024). Analysis aims to identify key trends in property prices, sizes, conditions, and other characteristics to better understand market conditions.
 
 ### Chess Analysis
